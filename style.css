@@ -101,6 +101,7 @@ p {
 .container ul li:first-child {
   font-size: 2rem;
   margin-right: 1.5rem;
+  font-weight: 700;
 }
 
 .container ul li:nth-child(2) {
